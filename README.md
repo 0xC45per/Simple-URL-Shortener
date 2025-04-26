@@ -28,3 +28,8 @@ chmod +x main.py
 python main.py <command> [options]
 ```
 
+## ⚙️ Commands
+
+- `shorten`: Shorten a URL
+- `get`: Get original URL from a short code
+- `list`: List all shortened URLs

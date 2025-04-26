@@ -33,3 +33,21 @@ python main.py <command> [options]
 - `shorten`: Shorten a URL
 - `get`: Get original URL from a short code
 - `list`: List all shortened URLs
+
+## 📝 Examples
+
+### Shorten a URL:
+```bash
+python main.py shorten https://www.example.com/very/long/path/to/resource
+```
+
+### Get the original URL:
+```bash
+python main.py get Abc123
+```
+
+### List all stored URLs:
+```bash
+python main.py list
+```
+

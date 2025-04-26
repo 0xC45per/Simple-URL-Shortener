@@ -51,3 +51,9 @@ python main.py get Abc123
 python main.py list
 ```
 
+## 📌 Notes
+
+- This is a simple local URL shortener - to make it work as a web service, you would need to integrate it with a web framework
+- The shortened codes are stored in a local file (`urls.json`)
+- Each short code is 6 characters by default, using letters and numbers
+

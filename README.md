@@ -57,3 +57,6 @@ python main.py list
 - The shortened codes are stored in a local file (`urls.json`)
 - Each short code is 6 characters by default, using letters and numbers
 
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
